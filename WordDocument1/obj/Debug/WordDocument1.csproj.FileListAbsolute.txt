@@ -1,0 +1,15 @@
+C:\Users\t4coffee\source\repos\WordDocument1\WordDocument1\bin\Debug\WordDocument1.dll
+C:\Users\t4coffee\source\repos\WordDocument1\WordDocument1\bin\Debug\WordDocument1.pdb
+C:\Users\t4coffee\source\repos\WordDocument1\WordDocument1\bin\Debug\WordDocument1.dll.manifest
+C:\Users\t4coffee\source\repos\WordDocument1\WordDocument1\bin\Debug\WordDocument1.vsto
+C:\Users\t4coffee\source\repos\WordDocument1\WordDocument1\bin\Debug\WordDocument1.docx
+C:\Users\t4coffee\source\repos\WordDocument1\WordDocument1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\t4coffee\source\repos\WordDocument1\WordDocument1\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\t4coffee\source\repos\WordDocument1\WordDocument1\obj\Debug\WordDocument1.csprojAssemblyReference.cache
+C:\Users\t4coffee\source\repos\WordDocument1\WordDocument1\obj\Debug\WordDocument1.ThisDocument.resources
+C:\Users\t4coffee\source\repos\WordDocument1\WordDocument1\obj\Debug\WordDocument1.Properties.Resources.resources
+C:\Users\t4coffee\source\repos\WordDocument1\WordDocument1\obj\Debug\WordDocument1.csproj.GenerateResource.cache
+C:\Users\t4coffee\source\repos\WordDocument1\WordDocument1\obj\Debug\WordDocument1.csproj.CoreCompileInputs.cache
+C:\Users\t4coffee\source\repos\WordDocument1\WordDocument1\obj\Debug\WordDocument1.csproj.CopyComplete
+C:\Users\t4coffee\source\repos\WordDocument1\WordDocument1\obj\Debug\WordDocument1.dll
+C:\Users\t4coffee\source\repos\WordDocument1\WordDocument1\obj\Debug\WordDocument1.pdb
