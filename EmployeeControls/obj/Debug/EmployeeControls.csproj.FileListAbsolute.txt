@@ -1,0 +1,14 @@
+C:\Users\t4coffee\source\repos\EmployeeControls\EmployeeControls\bin\Debug\EmployeeControls.dll
+C:\Users\t4coffee\source\repos\EmployeeControls\EmployeeControls\bin\Debug\EmployeeControls.pdb
+C:\Users\t4coffee\source\repos\EmployeeControls\EmployeeControls\bin\Debug\EmployeeControls.dll.manifest
+C:\Users\t4coffee\source\repos\EmployeeControls\EmployeeControls\bin\Debug\EmployeeControls.vsto
+C:\Users\t4coffee\source\repos\EmployeeControls\EmployeeControls\bin\Debug\EmployeeControls.docx
+C:\Users\t4coffee\source\repos\EmployeeControls\EmployeeControls\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\t4coffee\source\repos\EmployeeControls\EmployeeControls\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\t4coffee\source\repos\EmployeeControls\EmployeeControls\obj\Debug\EmployeeControls.ThisDocument.resources
+C:\Users\t4coffee\source\repos\EmployeeControls\EmployeeControls\obj\Debug\EmployeeControls.Properties.Resources.resources
+C:\Users\t4coffee\source\repos\EmployeeControls\EmployeeControls\obj\Debug\EmployeeControls.csproj.GenerateResource.cache
+C:\Users\t4coffee\source\repos\EmployeeControls\EmployeeControls\obj\Debug\EmployeeControls.csproj.CoreCompileInputs.cache
+C:\Users\t4coffee\source\repos\EmployeeControls\EmployeeControls\obj\Debug\EmployeeControls.csproj.CopyComplete
+C:\Users\t4coffee\source\repos\EmployeeControls\EmployeeControls\obj\Debug\EmployeeControls.dll
+C:\Users\t4coffee\source\repos\EmployeeControls\EmployeeControls\obj\Debug\EmployeeControls.pdb
