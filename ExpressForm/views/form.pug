@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1 Welcome Sales Guy
+  form(action='/submitform', method='post')
+    label(for='firstname') Enter your name:
+    input#firstname(type='text', name='firstname' required)
+    label(for='lastname')
+    input#lastname(type='text', name='lastname' required)
+    label(for='generate')
+    input#generate(type='submit', name='Generate')
