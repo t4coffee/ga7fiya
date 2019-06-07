@@ -1,0 +1,16 @@
+<sales_team>
+  <sales_employee>
+    <kam_name>Ahmed Riyadh</kam_name>
+    <email_id>ahriyadh</email_id>
+    <mobile_number>3301 1422</mobile_number>
+    <segment>Corporate</segment>
+    <title>Account Manager - Corporate Sales</title>
+  </sales_employee>
+  <sales_employee>
+    <kam_name>Khalid Riyadh</kam_name>
+    <email_id>kriyadh</email_id>
+    <mobile_number>3301 1224</mobile_number>
+    <segment>Corporate</segment>
+    <title>Account Manager - Corporate Sales</title>
+  </sales_employee>
+</sales_team>

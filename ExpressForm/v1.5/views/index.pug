@@ -1,0 +1,51 @@
+extends layout
+
+block content
+  h1= title
+  br
+  p #{bodytext}
+  form(action='/generateform', method='post')
+    .form-group
+      .col.col-md-6
+        input#firstnameinput.form-control(type='text', placeholder='First name' required)
+    .form-group
+      .col.col-md-6
+        input#lastnameinput.form-control(type='text', placeholder='Last name' required)
+    .form-group
+      .col.col-md-6
+        input#emailinput.form-control(type='email', placeholder='E-mail' required)
+    .form-group
+      .col.col-md-6
+        input#mobileinput.form-control(type='text', placeholder='Mobile Number' required)
+    .form-group
+      .col.col-md-6
+        select#segmentformcontrol.form-control
+          option Corporate Sales
+          option SME
+    .form-group
+      .col.col-md-6
+        input#titleinput.form-control(type='text', placeholder='Title' required)
+    .form-group
+      .col.col-md-6
+        .form-check.form-check-inline
+          input#exampleRadios1.form-check-input(type='radio', name='exampleRadios', value='option1', checked='')
+          label.form-check-label(for='exampleRadios1')
+            | Proposal
+        .form-check.form-check-inline
+          input#exampleRadios2.form-check-input(type='radio', name='exampleRadios', value='option2')
+          label.form-check-label(for='exampleRadios2')
+            | Agreement
+        .form-check.form-check-inline
+          input#exampleRadios3.form-check-input(type='radio', name='exampleRadios', value='option3')
+          label.form-check-label(for='exampleRadios3')
+            | Quote
+    .form-group
+      .col.col-md-6
+        button.btn.btn-primary.mb-2(type='submit') Generate
+
+
+      
+
+
+
+  
